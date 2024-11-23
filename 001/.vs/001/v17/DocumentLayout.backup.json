@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mycode c\u002B\u002B\\001\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{647F158F-AB58-4DB5-9476-DEAAE1D81B2B}|001\\001.vcxproj|E:\\mycode c\u002B\u002B\\001\\001\\001.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{647F158F-AB58-4DB5-9476-DEAAE1D81B2B}|001\\001.vcxproj|solutionrelative:001\\001.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647F158F-AB58-4DB5-9476-DEAAE1D81B2B}|001\\001.vcxproj|E:\\mycode c\u002B\u002B\\001\\001\\002.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{647F158F-AB58-4DB5-9476-DEAAE1D81B2B}|001\\001.vcxproj|solutionrelative:001\\002.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "001.c",
+              "DocumentMoniker": "E:\\mycode c\u002B\u002B\\001\\001\\001.c",
+              "RelativeDocumentMoniker": "001\\001.c",
+              "ToolTip": "E:\\mycode c\u002B\u002B\\001\\001\\001.c*",
+              "RelativeToolTip": "001\\001.c*",
+              "ViewState": "AgIAAEoBAAAAAAAAAAAAAGIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-21T06:59:01.795Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "002.c",
+              "DocumentMoniker": "E:\\mycode c\u002B\u002B\\001\\001\\002.c",
+              "RelativeDocumentMoniker": "001\\002.c",
+              "ToolTip": "E:\\mycode c\u002B\u002B\\001\\001\\002.c",
+              "RelativeToolTip": "001\\002.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-23T03:38:36.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
