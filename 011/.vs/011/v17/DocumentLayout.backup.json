@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mycode c\u002B\u002B\\011\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09D55CCC-BC74-42F2-84A1-590C364C04EF}|011\\011.vcxproj|E:\\mycode c\u002B\u002B\\011\\011\\\u968F\u673A\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D55CCC-BC74-42F2-84A1-590C364C04EF}|011\\011.vcxproj|solutionrelative:011\\\u968F\u673A\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D55CCC-BC74-42F2-84A1-590C364C04EF}|011\\011.vcxproj|E:\\mycode c\u002B\u002B\\011\\011\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D55CCC-BC74-42F2-84A1-590C364C04EF}|011\\011.vcxproj|solutionrelative:011\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D55CCC-BC74-42F2-84A1-590C364C04EF}|011\\011.vcxproj|E:\\mycode c\u002B\u002B\\011\\011\\\u51FD\u6570\u5B9A\u4E49.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D55CCC-BC74-42F2-84A1-590C364C04EF}|011\\011.vcxproj|solutionrelative:011\\\u51FD\u6570\u5B9A\u4E49.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D55CCC-BC74-42F2-84A1-590C364C04EF}|011\\011.vcxproj|E:\\mycode c\u002B\u002B\\011\\011\\\u51FD\u6570\u521D\u6B65.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09D55CCC-BC74-42F2-84A1-590C364C04EF}|011\\011.vcxproj|solutionrelative:011\\\u51FD\u6570\u521D\u6B65.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u968F\u673A\u6570.c",
+              "DocumentMoniker": "E:\\mycode c\u002B\u002B\\011\\011\\\u968F\u673A\u6570.c",
+              "RelativeDocumentMoniker": "011\\\u968F\u673A\u6570.c",
+              "ToolTip": "E:\\mycode c\u002B\u002B\\011\\011\\\u968F\u673A\u6570.c",
+              "RelativeToolTip": "011\\\u968F\u673A\u6570.c",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-12T13:43:29.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\mycode c\u002B\u002B\\011\\011\\main.c",
+              "RelativeDocumentMoniker": "011\\main.c",
+              "ToolTip": "E:\\mycode c\u002B\u002B\\011\\011\\main.c",
+              "RelativeToolTip": "011\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-12T10:01:06.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u51FD\u6570\u5B9A\u4E49.c",
+              "DocumentMoniker": "E:\\mycode c\u002B\u002B\\011\\011\\\u51FD\u6570\u5B9A\u4E49.c",
+              "RelativeDocumentMoniker": "011\\\u51FD\u6570\u5B9A\u4E49.c",
+              "ToolTip": "E:\\mycode c\u002B\u002B\\011\\011\\\u51FD\u6570\u5B9A\u4E49.c",
+              "RelativeToolTip": "011\\\u51FD\u6570\u5B9A\u4E49.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-12T09:56:53.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u51FD\u6570\u521D\u6B65.c",
+              "DocumentMoniker": "E:\\mycode c\u002B\u002B\\011\\011\\\u51FD\u6570\u521D\u6B65.c",
+              "RelativeDocumentMoniker": "011\\\u51FD\u6570\u521D\u6B65.c",
+              "ToolTip": "E:\\mycode c\u002B\u002B\\011\\011\\\u51FD\u6570\u521D\u6B65.c",
+              "RelativeToolTip": "011\\\u51FD\u6570\u521D\u6B65.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-12T09:47:13.956Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  随机数.c
+E:\mycode c++\011\011\随机数.c(27,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  011.vcxproj -> E:\mycode c++\011\x64\Debug\011.exe
